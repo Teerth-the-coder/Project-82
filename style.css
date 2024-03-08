@@ -1,0 +1,21 @@
+body {
+    background-image: url(bg1.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+#myCanvas {
+    border: 10px ridge;
+    background: white;
+}
+
+.all-input-div {
+    display: inline-flex;
+}
+
+.single-div {
+    display: inline-flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
